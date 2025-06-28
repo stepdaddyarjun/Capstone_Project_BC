@@ -1,4 +1,4 @@
-# Capstone_Project_BC
+# EV Analysis and Price prediction
 Author : Arjun Saharawat
 
 <p align="center">
